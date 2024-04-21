@@ -2,6 +2,10 @@
 
 int main() {
     printf("Hello, world Diego!\n");
+    // This is a Single line COMMENT
+    /*
+    This is a Multi-line COMNMENT
+    */
     // Escape Sequence
     // /t Creates a horizontal tab
     printf("Hello, world! \tIm learning C\n");
